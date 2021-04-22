@@ -1,0 +1,62 @@
+
+.picOfUser{
+    width: 175px;
+    position: absolute;
+    top: 150px;
+    left:900px;
+    border: 3px solid rgb(179, 179, 179);
+    border-radius: 50%;
+}
+.mark{
+    width: 20px;
+    position: absolute;
+    top: 430px;
+    left:900px;
+}
+
+.gear{
+    width: 20px;
+    position: absolute;
+    top: 600px;
+    left:900px;
+}
+
+.blueBar{
+    background-color: rgb(128, 191, 233);
+    width: 950px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.whiteBackground{
+    background-color: rgb(255, 255, 255);
+    width: 945px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid rgb(179, 179, 179);
+}
+
+h1{
+    font-size: 4rem;
+    margin-bottom: 0px;
+    margin-top: 75px;
+    margin-left: 100px;
+}
+h2{
+    font-size: 2.5rem;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+h4{
+    font-size: 1.3rem;
+    margin-left: 100px;
+}
+.editProfile{
+    color: blue;
+    text-decoration: underline blue;
+    margin-left: 150px
+}
